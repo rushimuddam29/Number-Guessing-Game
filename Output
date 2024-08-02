@@ -1,0 +1,18 @@
+Enter your name : Rushi
+Rushi Welcome to the number guessing game
+In this game you need to guess the secret number given by the system
+Guess a number between 1 and 100: 50
+Your guessed number 50 is lesser than the secret number, try again!
+Hint 1 : The secret number is above fifty(50)
+Guess a number between 1 and 100: 75
+Your guessed number 75 is greater than the secret number, try again!
+Hint 2 : The secret number is odd
+Guess a number between 1 and 100: 55
+Your guessed number 55 is greater than the secret number, try again!
+Hint 3 : secret number is not a prime number.
+Guess a number between 1 and 100: 51
+Congratulations, you guessed the number!
+Number of attempts: 3
+Excellent you got 5 stars ***
+Do you want to play te game again
+If you want to play the again select 'one(1)' to continue or 'zero(0)' to stop the game : 0
